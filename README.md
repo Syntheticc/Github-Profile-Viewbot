@@ -12,3 +12,5 @@ copy link and put it in the script then go ahead and run the file
 # credits
 
 MAKE SURE TO GIVE CREDITS IF U DECIDE TO UPGRADE etc.. please and thank you
+
+credits to ninjaracc for finding user-agents list
