@@ -14,4 +14,4 @@ MAKE SURE TO GIVE CREDITS IF U DECIDE TO UPGRADE etc.. please and thank you
 
 credits to ninjaracc for finding user-agents list
 
-![example](https://cdn.discordapp.com/attachments/1017200441387401297/1024645030331293736/IMG_1176.png)
+![example](https://cdn.discordapp.com/attachments/1017200441387401297/1024645636244656209/IMG_1177.png)
