@@ -1,8 +1,7 @@
 # Github-Profile-View-Botter
 Simple but efficient Github profile botter
 
-
-![example](https://cdn.discordapp.com/attachments/1017200441387401297/1024458025303556196/unknown.png)
+![example](https://cdn.discordapp.com/attachments/1017200441387401297/1024645030331293736/IMG_1176.png)
 
 Click on the view counter and it should redirect you
 
